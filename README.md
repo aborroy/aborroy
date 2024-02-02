@@ -14,8 +14,9 @@ Hi there! I'm Angel Borroy, and I'm passionate about Alfresco, Docker and Open S
 
 I'm always eager to learn and explore new technologies and tools. Right now, I'm focusing on:
 
-- [Generative AI](https://github.com/aborroy/llama2-docker-multiarch)
+- [Generative AI](https://github.com/aborroy/alfresco-genai)
 - [Go](https://github.com/aborroy/alfresco-go-cli)
+- [Docker](https://github.com/aborroy/docker-init-with-templates) 
 
 ## 💬 Get in Touch
 
