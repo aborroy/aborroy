@@ -6,9 +6,9 @@ Hi there! I'm Angel Borroy, and I'm passionate about Alfresco, Docker and Open S
 
 ## 🔭 What I'm Currently Working On
 
-- [alfresco-dockerx-builder](https://github.com/aborroy/alfresco-dockerx-builder): Producing ARCH64 Docker Images for Alfresco previous releases.
+- [alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework): Simple AI Framework for Alfresco using Spring AI.
 - [alfresco-docker-extension](https://github.com/AlfrescoLabs/alfresco-docker-extension): Docker Extension to deploy Alfresco with one click.
-- [alfresco-docker-installer](https://github.com/alfresco/alfresco-docker-installer): `Docker Init` approach to deploy Alfresco with Docker Compose.
+- [alfresco-docker-best-practices](https://github.com/aborroy/alfresco-docker-best-practices): How to apply Docker and Docker Compose best practices to Alfresco deployment.
 
 ## 🌱 I'm Learning
 
@@ -21,8 +21,9 @@ I'm always eager to learn and explore new technologies and tools. Right now, I'm
 ## 💬 Get in Touch
 
 - Twitter: [AngelBorroy](https://twitter.com/AngelBorroy)
+- Bluesky: [angelborroy.bksy.social](https://bsky.app/profile/angelborroy.bsky.social)
 - LinkedIn: [Angel Borroy](https://linkedin.com/in/angelborroy)
-- [Alfresco Hub](https://hub.alfresco.com)
+- [Hyland Connect](https://connect.hyland.com/)
 
 Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat!
 
