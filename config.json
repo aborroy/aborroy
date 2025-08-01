@@ -1,0 +1,40 @@
+{
+  "personal_info": {
+    "name": "Angel Borroy",
+    "title": "Developer Evangelist @ Hyland Software | Docker Captain",
+    "location": "Spain",
+    "website": "https://connect.hyland.com/",
+    "social": {
+      "twitter": "@AngelBorroy",
+      "linkedin": "in/angelborroy",
+      "youtube": "c/AngelBorroy", 
+      "bluesky": "@angelborroy.bsky.social"
+    }
+  },
+  "featured_repos": [
+    "alfresco-ai-framework",
+    "alfresco-sbom-generator",
+    "alf-k8s",
+    "spring-ai-summarizer",
+    "knowledge-enrichment-api",
+    "alf-tengine-convert2md"
+  ],
+  "technologies": [
+    "Java",
+    "Python", 
+    "JavaScript",
+    "Go",
+    "Shell/Bash",
+    "Docker",
+    "Kubernetes",
+    "Alfresco",
+    "Spring Framework",
+    "Spring AI",
+    "Ollama",
+    "OpenAI",
+    "Various LLMs",
+    "AWS"
+  ],
+  "recent_activity_days": 90,
+  "max_repos_per_category": 8
+}

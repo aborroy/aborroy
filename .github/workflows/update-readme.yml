@@ -1,0 +1,51 @@
+# .github/workflows/update-readme.yml
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Every Monday at 6 AM UTC
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches: [ main ]
+    paths: 
+      - 'template.md'
+      - 'config.json'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      metadata: read
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.PERSONAL_TOKEN || secrets.GITHUB_TOKEN }}
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install requests jinja2 python-dateutil
+
+    - name: Update README
+      env:
+        GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN || secrets.GITHUB_TOKEN }}
+        USERNAME: ${{ github.repository_owner }}
+      run: python update_readme.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Auto-update README with latest repositories"
+          git push
+        fi
