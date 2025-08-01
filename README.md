@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **115** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-08-01 15:24 UTC
+- Last updated: 2025-08-01 13:30 UTC
 
 ## Featured Projects
 
@@ -72,7 +72,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Tools & Utilities
 
-- **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 - About me
+- **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 `Python` - About me
 - **[mnt-22668](https://github.com/aborroy/mnt-22668)** ⭐3 `Java` - Patch MNT-22668 for ACS 7.2
 - **[search-2238](https://github.com/aborroy/search-2238)**  `Dockerfile` - Testing environment for SEARCH-2238
 - **[solr-performance-services-repo](https://github.com/aborroy/solr-performance-services-repo)** ⭐1 `Java` - Repository Web Scripts to improve SOLR performance
@@ -91,6 +91,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-08-01)*
 - **[spring-ai-model-comparison](https://github.com/aborroy/spring-ai-model-comparison)** - This project demonstrates how to configure Spring AI to interact with Ollama and... *(Updated: 2025-08-01)*
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-08-01)*
 - **[alfresco-hyland-process-js](https://github.com/aborroy/alfresco-hyland-process-js)** - Custom JavaScript Root Object that allows Alfresco scripts to start Hyland Autom... *(Updated: 2025-08-01)*
@@ -100,7 +101,6 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-08-01)*
 - **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-08-01)*
 - **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-07-31)*
-- **[hyland-mcp-gen](https://github.com/aborroy/hyland-mcp-gen)** - Generates MCP Server tool definitions from Hyland REST API specifications using ... *(Updated: 2025-07-30)*
 
 ## Technologies & Tools
 
