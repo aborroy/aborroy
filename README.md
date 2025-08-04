@@ -16,29 +16,29 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **115** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-08-01 13:30 UTC
+- Last updated: 2025-08-04 06:44 UTC
 
 ## Featured Projects
 
-- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐12 - Sample application to apply Spring AI services to Alfresco Repository
+- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐14 - Sample application to apply Spring AI services to Alfresco Repository
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)**  - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐3 - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
-- **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐2 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
+- **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐1 - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐4 - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 
 ## Repository Categories
 
 ### AI & Machine Learning
 
+- **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** ⭐2 `Python` - Comparing the quality of two summaries against a source Markdown document
+- **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
+- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐14 `Java` - Sample application to apply Spring AI services to Alfresco Repository
+- **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐7 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
+- **[alfresco-outlook-attachments-oop](https://github.com/aborroy/alfresco-outlook-attachments-oop)** ⭐2 `Java` - Alfresco Java SDK application to extract attachments from email content
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
+- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐28 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[spring-ai-model-comparison](https://github.com/aborroy/spring-ai-model-comparison)**  `Python` - This project demonstrates how to configure Spring AI to interact with Ollama and Docker Model Runner
-- **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐2 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐4 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
-- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** ⭐1 `Java` - Custom Alfresco TEngine to extract-metadata from an XML file
-- **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** ⭐1 `Python` - Comparing the quality of two summaries against a source Markdown document
-- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐27 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
-- **[alfresco-knowledge-enrichment](https://github.com/aborroy/alfresco-knowledge-enrichment)** ⭐3 `Java` - AI Knowledge Enrichment for Alfresco Community
-- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐12 `Java` - Sample application to apply Spring AI services to Alfresco Repository
 *...and 9 more repositories in this category*
 
 ### Docker & DevOps
@@ -55,14 +55,14 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐5 `Java` - OpenSearch support for Alfresco Community
+- **[hyland-mcp-gen](https://github.com/aborroy/hyland-mcp-gen)** ⭐1 `Python` - Generates MCP Server tool definitions from Hyland REST API specifications using OpenAPI or Swagger.
+- **[alfresco-mcp-poc](https://github.com/aborroy/alfresco-mcp-poc)** ⭐4 `Dockerfile` - Alfresco MPC (Model Context Protocol) PoC
+- **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐2 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[alfresco-hyland-process-js](https://github.com/aborroy/alfresco-hyland-process-js)** ⭐1 `Java` - Custom JavaScript Root Object that allows Alfresco scripts to start Hyland Automate processes via a secured API call using OAuth 2.0
 - **[alf-tengine-excel](https://github.com/aborroy/alf-tengine-excel)** ⭐2 `Java` - Custom Alfresco TEngine to extract-metadata from an Excel file
-- **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)**  `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)**  `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
-- **[hyland-mcp-gen](https://github.com/aborroy/hyland-mcp-gen)**  `Python` - Generates MCP Server tool definitions from Hyland REST API specifications using OpenAPI or Swagger.
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐20 `Shell` - Collection of scripts to install Alfresco in Ubuntu
-- **[acs-transform-cluster](https://github.com/aborroy/acs-transform-cluster)** ⭐4 - Sample deployment to scale up Alfresco Transform Service (both Enterprise and Community versions)
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐25 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
 *...and 34 more repositories in this category*
 
 ### API & Integration
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-08-01)*
-- **[spring-ai-model-comparison](https://github.com/aborroy/spring-ai-model-comparison)** - This project demonstrates how to configure Spring AI to interact with Ollama and... *(Updated: 2025-08-01)*
-- **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-08-01)*
-- **[alfresco-hyland-process-js](https://github.com/aborroy/alfresco-hyland-process-js)** - Custom JavaScript Root Object that allows Alfresco scripts to start Hyland Autom... *(Updated: 2025-08-01)*
-- **[alf-tengine-excel](https://github.com/aborroy/alf-tengine-excel)** - Custom Alfresco TEngine to extract-metadata from an Excel file *(Updated: 2025-08-01)*
-- **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner *(Updated: 2025-08-01)*
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-08-01)*
-- **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-08-01)*
-- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-08-01)*
-- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-07-31)*
+- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-08-03)*
+- **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** - Comparing the quality of two summaries against a source Markdown document *(Updated: 2025-08-03)*
+- **[hyland-mcp-gen](https://github.com/aborroy/hyland-mcp-gen)** - Generates MCP Server tool definitions from Hyland REST API specifications using ... *(Updated: 2025-08-03)*
+- **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner *(Updated: 2025-08-03)*
+- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** - Sample application to apply Spring AI services to Alfresco Repository *(Updated: 2025-08-03)*
+- **[alfresco-mcp-poc](https://github.com/aborroy/alfresco-mcp-poc)** - Alfresco MPC (Model Context Protocol) PoC *(Updated: 2025-08-03)*
+- **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** - Alfresco Repository add-on that extracts attachments from an Email when uploadin... *(Updated: 2025-08-03)*
+- **[alfresco-outlook-attachments-oop](https://github.com/aborroy/alfresco-outlook-attachments-oop)** - Alfresco Java SDK application to extract attachments from email content *(Updated: 2025-08-03)*
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-08-02)*
+- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2025-08-02)*
 
 ## Technologies & Tools
 
