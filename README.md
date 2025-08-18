@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **116** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-08-11 06:38 UTC
+- Last updated: 2025-08-18 06:38 UTC
 
 ## Featured Projects
 
@@ -31,14 +31,14 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### AI & Machine Learning
 
+- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** ⭐1 `Java` - Custom Alfresco TEngine to extract-metadata from an XML file
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** ⭐2 `Python` - Comparing the quality of two summaries against a source Markdown document
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐14 `Java` - Sample application to apply Spring AI services to Alfresco Repository
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐7 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
 - **[alfresco-outlook-attachments-oop](https://github.com/aborroy/alfresco-outlook-attachments-oop)** ⭐2 `Java` - Alfresco Java SDK application to extract attachments from email content
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐28 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
-- **[spring-ai-model-comparison](https://github.com/aborroy/spring-ai-model-comparison)**  `Python` - This project demonstrates how to configure Spring AI to interact with Ollama and Docker Model Runner
 *...and 9 more repositories in this category*
 
 ### Docker & DevOps
@@ -55,14 +55,14 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alf-cli](https://github.com/aborroy/alf-cli)** ⭐1 `Go` - Alfresco CLI
+- **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐5 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
-- **[alf-cli](https://github.com/aborroy/alf-cli)**  `Go` - Alfresco CLI
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐21 `Shell` - Collection of scripts to install Alfresco in Ubuntu
 - **[aps-action-share-deployment](https://github.com/aborroy/aps-action-share-deployment)** ⭐1 `Dockerfile` - Sample deployment to use the APS Action Share addon
 - **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)**  `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
 - **[alfresco-hyland-process-js](https://github.com/aborroy/alfresco-hyland-process-js)** ⭐1 `Java` - Custom JavaScript Root Object that allows Alfresco scripts to start Hyland Automate processes via a secured API call using OAuth 2.0
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐5 `Java` - OpenSearch support for Alfresco Community
-- **[hyland-mcp-gen](https://github.com/aborroy/hyland-mcp-gen)** ⭐1 `Python` - Generates MCP Server tool definitions from Hyland REST API specifications using OpenAPI or Swagger.
 *...and 35 more repositories in this category*
 
 ### API & Integration
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[alf-cli](https://github.com/aborroy/alf-cli)** - Alfresco CLI *(Updated: 2025-08-16)*
+- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-08-14)*
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-08-14)*
+- **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** - Sample Integration of OpenSearch Neural Search with Alfresco *(Updated: 2025-08-12)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-08-11)*
 - **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** - Comparing the quality of two summaries against a source Markdown document *(Updated: 2025-08-11)*
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-08-09)*
-- **[alf-cli](https://github.com/aborroy/alf-cli)** - Alfresco CLI *(Updated: 2025-08-08)*
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2025-08-07)*
 - **[aps-action-share-deployment](https://github.com/aborroy/aps-action-share-deployment)** - Sample deployment to use the APS Action Share addon *(Updated: 2025-08-07)*
 - **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-08-06)*
-- **[alfresco-hyland-process-js](https://github.com/aborroy/alfresco-hyland-process-js)** - Custom JavaScript Root Object that allows Alfresco scripts to start Hyland Autom... *(Updated: 2025-08-05)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-08-04)*
-- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-08-03)*
-- **[hyland-mcp-gen](https://github.com/aborroy/hyland-mcp-gen)** - Generates MCP Server tool definitions from Hyland REST API specifications using ... *(Updated: 2025-08-03)*
 
 ## Technologies & Tools
 
