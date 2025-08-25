@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Quick Stats
 
-- **116** public repositories
+- **118** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-08-18 06:38 UTC
+- Last updated: 2025-08-25 06:36 UTC
 
 ## Featured Projects
 
@@ -43,6 +43,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Docker & DevOps
 
+- **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** ⭐3 `Dockerfile` - Laboratory to use a MCP Server with Alfresco Community
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐1 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)**  `Python` - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
 - **[scout-style-docker-image-comparison](https://github.com/aborroy/scout-style-docker-image-comparison)** ⭐1 `Shell` - Bash utility to compare two Docker images using Syft and Grype
@@ -50,20 +51,19 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[docker-init-with-templates](https://github.com/aborroy/docker-init-with-templates)** ⭐4 `Smarty` - Sample implementation of generic templates for the Docker Init command.
 - **[alfresco-activemq-74](https://github.com/aborroy/alfresco-activemq-74)** ⭐1 `Java` - Set of different configurations to use ActiveMQ with Alfresco 7.4
 - **[search-services-to-search-enterprise](https://github.com/aborroy/search-services-to-search-enterprise)** ⭐1 `Dockerfile` - Alfresco Enterprise, a tutorial on how to migrate from Search Services to Search Enterprise
-- **[alfresco-docker-best-practices](https://github.com/aborroy/alfresco-docker-best-practices)** ⭐8 `Mermaid` - Best Practices for Deploying Alfresco Community & Enterprise with Docker Compose
-*...and 28 more repositories in this category*
+*...and 29 more repositories in this category*
 
 ### Alfresco Extensions & Tools
 
-- **[alf-cli](https://github.com/aborroy/alf-cli)** ⭐1 `Go` - Alfresco CLI
+- **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** ⭐1 `Java` - Adds a new JavaScript Root Object `base64` to Alfresco Repo
+- **[alf-cli](https://github.com/aborroy/alf-cli)** ⭐2 `Go` - Alfresco CLI
+- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** ⭐2 `Dockerfile` - Guide to upgrade Alfresco 7.0 to Alfresco 23.1
+- **[alfresco-transform-service-prometheus](https://github.com/aborroy/alfresco-transform-service-prometheus)** ⭐4 - Sample integration of Alfresco Transform Service with Prometheus
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐5 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐21 `Shell` - Collection of scripts to install Alfresco in Ubuntu
 - **[aps-action-share-deployment](https://github.com/aborroy/aps-action-share-deployment)** ⭐1 `Dockerfile` - Sample deployment to use the APS Action Share addon
-- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)**  `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
-- **[alfresco-hyland-process-js](https://github.com/aborroy/alfresco-hyland-process-js)** ⭐1 `Java` - Custom JavaScript Root Object that allows Alfresco scripts to start Hyland Automate processes via a secured API call using OAuth 2.0
-- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐5 `Java` - OpenSearch support for Alfresco Community
-*...and 35 more repositories in this category*
+*...and 36 more repositories in this category*
 
 ### API & Integration
 
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[alf-cli](https://github.com/aborroy/alf-cli)** - Alfresco CLI *(Updated: 2025-08-16)*
+- **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** - Adds a new JavaScript Root Object `base64` to Alfresco Repo *(Updated: 2025-08-23)*
+- **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** - Laboratory to use a MCP Server with Alfresco Community *(Updated: 2025-08-22)*
+- **[alf-cli](https://github.com/aborroy/alf-cli)** - Alfresco CLI *(Updated: 2025-08-22)*
+- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** - Guide to upgrade Alfresco 7.0 to Alfresco 23.1 *(Updated: 2025-08-20)*
+- **[alfresco-transform-service-prometheus](https://github.com/aborroy/alfresco-transform-service-prometheus)** - Sample integration of Alfresco Transform Service with Prometheus *(Updated: 2025-08-20)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-08-18)*
 - **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-08-14)*
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-08-14)*
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** - Sample Integration of OpenSearch Neural Search with Alfresco *(Updated: 2025-08-12)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-08-11)*
 - **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** - Comparing the quality of two summaries against a source Markdown document *(Updated: 2025-08-11)*
-- **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-08-09)*
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2025-08-07)*
-- **[aps-action-share-deployment](https://github.com/aborroy/aps-action-share-deployment)** - Sample deployment to use the APS Action Share addon *(Updated: 2025-08-07)*
-- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-08-06)*
 
 ## Technologies & Tools
 
