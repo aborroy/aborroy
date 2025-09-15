@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **119** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-09-08 06:34 UTC
+- Last updated: 2025-09-15 06:34 UTC
 
 ## Featured Projects
 
@@ -55,14 +55,14 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-mcp-poc](https://github.com/aborroy/alfresco-mcp-poc)** ⭐5 `Dockerfile` - Alfresco MPC (Model Context Protocol) PoC
+- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** ⭐1 `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐22 `Shell` - Collection of scripts to install Alfresco in Ubuntu
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐1 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** ⭐2 `Java` - Adds a new JavaScript Root Object `sysAdmin` to Alfresco Repo
 - **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** ⭐1 `Java` - Adds a new JavaScript Root Object `base64` to Alfresco Repo
 - **[alf-cli](https://github.com/aborroy/alf-cli)** ⭐2 `Go` - Alfresco CLI
-- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** ⭐2 `Dockerfile` - Guide to upgrade Alfresco 7.0 to Alfresco 23.1
-- **[alfresco-transform-service-prometheus](https://github.com/aborroy/alfresco-transform-service-prometheus)** ⭐4 - Sample integration of Alfresco Transform Service with Prometheus
-- **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐5 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 *...and 37 more repositories in this category*
 
 ### API & Integration
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[alfresco-mcp-poc](https://github.com/aborroy/alfresco-mcp-poc)** - Alfresco MPC (Model Context Protocol) PoC *(Updated: 2025-09-13)*
+- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-09-11)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2025-09-08)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-09-08)*
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-09-05)*
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-09-05)*
 - **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** - Adds a new JavaScript Root Object `sysAdmin` to Alfresco Repo *(Updated: 2025-09-01)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-09-01)*
 - **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** - Laboratory to use a MCP Server with Alfresco Community *(Updated: 2025-08-30)*
 - **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** - Adds a new JavaScript Root Object `base64` to Alfresco Repo *(Updated: 2025-08-23)*
 - **[alf-cli](https://github.com/aborroy/alf-cli)** - Alfresco CLI *(Updated: 2025-08-22)*
-- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** - Guide to upgrade Alfresco 7.0 to Alfresco 23.1 *(Updated: 2025-08-20)*
-- **[alfresco-transform-service-prometheus](https://github.com/aborroy/alfresco-transform-service-prometheus)** - Sample integration of Alfresco Transform Service with Prometheus *(Updated: 2025-08-20)*
-- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-08-14)*
 
 ## Technologies & Tools
 
