@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Quick Stats
 
-- **119** public repositories
+- **121** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-09-15 06:34 UTC
+- Last updated: 2025-09-22 06:35 UTC
 
 ## Featured Projects
 
@@ -43,26 +43,26 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Docker & DevOps
 
+- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐2 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
+- **[alf-tengine-pii](https://github.com/aborroy/alf-tengine-pii)** ⭐5 `Java` - Custom Alfresco TEngine to redact metadata in a PDF file
 - **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** ⭐5 `Dockerfile` - Laboratory to use a MCP Server with Alfresco Community
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐1 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)**  `Python` - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
 - **[scout-style-docker-image-comparison](https://github.com/aborroy/scout-style-docker-image-comparison)** ⭐1 `Shell` - Bash utility to compare two Docker images using Syft and Grype
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐3 `Go` - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[docker-init-with-templates](https://github.com/aborroy/docker-init-with-templates)** ⭐4 `Smarty` - Sample implementation of generic templates for the Docker Init command.
-- **[alfresco-activemq-74](https://github.com/aborroy/alfresco-activemq-74)** ⭐1 `Java` - Set of different configurations to use ActiveMQ with Alfresco 7.4
-- **[search-services-to-search-enterprise](https://github.com/aborroy/search-services-to-search-enterprise)** ⭐1 `Dockerfile` - Alfresco Enterprise, a tutorial on how to migrate from Search Services to Search Enterprise
-*...and 29 more repositories in this category*
+*...and 31 more repositories in this category*
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-catalog](https://github.com/aborroy/alfresco-catalog)** ⭐1 `HTML` - A zero-infrastructure, community-driven catalog of third‑party solutions for Alfresco.
+- **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** ⭐5 `Java` - New JavaScript Root Objects for Alfresco Repo
+- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** ⭐2 `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
+- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** ⭐3 `Dockerfile` - Guide to upgrade Alfresco 7.0 to Alfresco 23.1
 - **[alfresco-mcp-poc](https://github.com/aborroy/alfresco-mcp-poc)** ⭐5 `Dockerfile` - Alfresco MPC (Model Context Protocol) PoC
-- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** ⭐1 `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐22 `Shell` - Collection of scripts to install Alfresco in Ubuntu
-- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐1 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
-- **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** ⭐2 `Java` - Adds a new JavaScript Root Object `sysAdmin` to Alfresco Repo
 - **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** ⭐1 `Java` - Adds a new JavaScript Root Object `base64` to Alfresco Repo
-- **[alf-cli](https://github.com/aborroy/alf-cli)** ⭐2 `Go` - Alfresco CLI
 *...and 37 more repositories in this category*
 
 ### API & Integration
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-09-20)*
+- **[alf-tengine-pii](https://github.com/aborroy/alf-tengine-pii)** - Custom Alfresco TEngine to redact metadata in a PDF file *(Updated: 2025-09-19)*
+- **[alfresco-catalog](https://github.com/aborroy/alfresco-catalog)** - A zero-infrastructure, community-driven catalog of third‑party solutions for Alf... *(Updated: 2025-09-19)*
+- **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** - New JavaScript Root Objects for Alfresco Repo *(Updated: 2025-09-18)*
+- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-09-17)*
+- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** - Guide to upgrade Alfresco 7.0 to Alfresco 23.1 *(Updated: 2025-09-16)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-09-15)*
 - **[alfresco-mcp-poc](https://github.com/aborroy/alfresco-mcp-poc)** - Alfresco MPC (Model Context Protocol) PoC *(Updated: 2025-09-13)*
-- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** - Alfresco Repository addon to connect with Hyland Knowledge Discovery service *(Updated: 2025-09-11)*
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2025-09-08)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-09-08)*
-- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-09-05)*
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-09-05)*
-- **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** - Adds a new JavaScript Root Object `sysAdmin` to Alfresco Repo *(Updated: 2025-09-01)*
-- **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** - Laboratory to use a MCP Server with Alfresco Community *(Updated: 2025-08-30)*
-- **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** - Adds a new JavaScript Root Object `base64` to Alfresco Repo *(Updated: 2025-08-23)*
-- **[alf-cli](https://github.com/aborroy/alf-cli)** - Alfresco CLI *(Updated: 2025-08-22)*
 
 ## Technologies & Tools
 
