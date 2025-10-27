@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Quick Stats
 
-- **123** public repositories
+- **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-10-20 06:34 UTC
+- Last updated: 2025-10-27 06:37 UTC
 
 ## Featured Projects
 
@@ -31,6 +31,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### AI & Machine Learning
 
+- **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)**  `TypeScript` - Run untrusted or AI-generated Python analysis safely on Alfresco documents using E2B ephemeral sandboxes
 - **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** ⭐2 `Java` - Custom Alfresco TEngine to extract-metadata from an XML file
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-containers](https://github.com/aborroy/alfresco-containers)** ⭐1 `Dockerfile` - This project features sample and practical exercises for the training session "Alfresco Container-based Installation and Configuration Best Practices", presented at Alfresco TechQuest 2024
@@ -38,8 +39,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[acs-ai-cl25](https://github.com/aborroy/acs-ai-cl25)** ⭐1 `Python` - AI Ready Content in ACS - CommunityLive25
 - **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** ⭐2 `Python` - Comparing the quality of two summaries against a source Markdown document
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
-- **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐7 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
-*...and 10 more repositories in this category*
+*...and 11 more repositories in this category*
 
 ### Docker & DevOps
 
@@ -55,10 +55,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** ⭐4 `Python` - Source code for the Alfresco Agents Lab for CommunityLive EU 2025
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐3 `Java` - Create a Markdown rendition for every document in Alfresco Repository
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** ⭐4 `Dockerfile` - Guide to upgrade Alfresco 7.0 to Alfresco 23.1
-- **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** ⭐3 `Python` - Source code for the Alfresco Agents Lab for CommunityLive EU 2025
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐8 - Monitoring Alfresco SOLR with Prometheus and Grafana
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐26 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
 - **[acs-transform-cluster](https://github.com/aborroy/acs-transform-cluster)** ⭐5 - Sample deployment to scale up Alfresco Transform Service (both Enterprise and Community versions)
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)** - Run untrusted or AI-generated Python analysis safely on Alfresco documents using... *(Updated: 2025-10-23)*
+- **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** - Source code for the Alfresco Agents Lab for CommunityLive EU 2025 *(Updated: 2025-10-22)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-10-20)*
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** - Create a Markdown rendition for every document in Alfresco Repository *(Updated: 2025-10-18)*
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-10-17)*
 - **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** - Guide to upgrade Alfresco 7.0 to Alfresco 23.1 *(Updated: 2025-10-15)*
-- **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** - Source code for the Alfresco Agents Lab for CommunityLive EU 2025 *(Updated: 2025-10-14)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-10-13)*
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2025-10-13)*
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** - Monitoring Alfresco SOLR with Prometheus and Grafana *(Updated: 2025-10-11)*
 - **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-10-10)*
 - **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** - Sample Docker Compose templates to help moving from Alfresco Identity Service to... *(Updated: 2025-10-09)*
-- **[alf-k8s](https://github.com/aborroy/alf-k8s)** - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop *(Updated: 2025-10-06)*
 
 ## Technologies & Tools
 
