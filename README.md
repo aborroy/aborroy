@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-10-27 06:37 UTC
+- Last updated: 2025-11-03 06:36 UTC
 
 ## Featured Projects
 
@@ -55,8 +55,8 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐4 `Java` - Create a Markdown rendition for every document in Alfresco Repository
 - **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** ⭐4 `Python` - Source code for the Alfresco Agents Lab for CommunityLive EU 2025
-- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐3 `Java` - Create a Markdown rendition for every document in Alfresco Repository
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** ⭐4 `Dockerfile` - Guide to upgrade Alfresco 7.0 to Alfresco 23.1
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐8 - Monitoring Alfresco SOLR with Prometheus and Grafana
@@ -91,10 +91,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** - Create a Markdown rendition for every document in Alfresco Repository *(Updated: 2025-10-30)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-10-27)*
 - **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)** - Run untrusted or AI-generated Python analysis safely on Alfresco documents using... *(Updated: 2025-10-23)*
 - **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** - Source code for the Alfresco Agents Lab for CommunityLive EU 2025 *(Updated: 2025-10-22)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-10-20)*
-- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** - Create a Markdown rendition for every document in Alfresco Repository *(Updated: 2025-10-18)*
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-10-17)*
 - **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** - Guide to upgrade Alfresco 7.0 to Alfresco 23.1 *(Updated: 2025-10-15)*
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2025-10-13)*
