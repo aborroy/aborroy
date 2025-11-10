@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-11-03 06:36 UTC
+- Last updated: 2025-11-10 06:36 UTC
 
 ## Featured Projects
 
@@ -24,16 +24,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)** ⭐1 - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐6 - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
-- **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐1 - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
+- **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐2 - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 
 ## Repository Categories
 
 ### AI & Machine Learning
 
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)**  `TypeScript` - Run untrusted or AI-generated Python analysis safely on Alfresco documents using E2B ephemeral sandboxes
 - **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** ⭐2 `Java` - Custom Alfresco TEngine to extract-metadata from an XML file
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐6 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-containers](https://github.com/aborroy/alfresco-containers)** ⭐1 `Dockerfile` - This project features sample and practical exercises for the training session "Alfresco Container-based Installation and Configuration Best Practices", presented at Alfresco TechQuest 2024
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 `Java` - Sample application to apply Spring AI services to Alfresco Repository
 - **[acs-ai-cl25](https://github.com/aborroy/acs-ai-cl25)** ⭐1 `Python` - AI Ready Content in ACS - CommunityLive25
@@ -43,26 +43,26 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Docker & DevOps
 
+- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐3 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
+- **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐2 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
+- **[alfresco-custom-metadata-extractor](https://github.com/aborroy/alfresco-custom-metadata-extractor)** ⭐2 `Dockerfile` - How to extract custom metadata from Alfresco 23.2 with Transform Service
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐9 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐6 `Go` - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)** ⭐1 `Python` - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
 - **[alf-tengine-pii](https://github.com/aborroy/alf-tengine-pii)** ⭐7 `Java` - Custom Alfresco TEngine to redact metadata in a PDF file
-- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐2 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
-- **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** ⭐5 `Dockerfile` - Laboratory to use a MCP Server with Alfresco Community
-- **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐1 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 *...and 31 more repositories in this category*
 
 ### Alfresco Extensions & Tools
 
-- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐4 `Java` - Create a Markdown rendition for every document in Alfresco Repository
+- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐5 `Java` - Create a Markdown rendition for every document in Alfresco Repository
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐26 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
+- **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** ⭐2 `Java` - Adds a new JavaScript Root Object `base64` to Alfresco Repo
+- **[alf-tengine-excel](https://github.com/aborroy/alf-tengine-excel)** ⭐3 `Java` - Custom Alfresco TEngine to extract-metadata from an Excel file
 - **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** ⭐4 `Python` - Source code for the Alfresco Agents Lab for CommunityLive EU 2025
 - **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 - **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** ⭐4 `Dockerfile` - Guide to upgrade Alfresco 7.0 to Alfresco 23.1
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐8 - Monitoring Alfresco SOLR with Prometheus and Grafana
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐26 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
-- **[acs-transform-cluster](https://github.com/aborroy/acs-transform-cluster)** ⭐5 - Sample deployment to scale up Alfresco Transform Service (both Enterprise and Community versions)
-- **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** ⭐5 `Java` - New JavaScript Root Objects for Alfresco Repo
 *...and 38 more repositories in this category*
 
 ### API & Integration
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** - Create a Markdown rendition for every document in Alfresco Repository *(Updated: 2025-10-30)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-10-27)*
+- **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-11-09)*
+- **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-11-08)*
+- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-11-08)*
+- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** - Create a Markdown rendition for every document in Alfresco Repository *(Updated: 2025-11-08)*
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2025-11-06)*
+- **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** - Adds a new JavaScript Root Object `base64` to Alfresco Repo *(Updated: 2025-11-05)*
+- **[alfresco-custom-metadata-extractor](https://github.com/aborroy/alfresco-custom-metadata-extractor)** - How to extract custom metadata from Alfresco 23.2 with Transform Service *(Updated: 2025-11-05)*
+- **[alf-tengine-excel](https://github.com/aborroy/alf-tengine-excel)** - Custom Alfresco TEngine to extract-metadata from an Excel file *(Updated: 2025-11-05)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-11-03)*
 - **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)** - Run untrusted or AI-generated Python analysis safely on Alfresco documents using... *(Updated: 2025-10-23)*
-- **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** - Source code for the Alfresco Agents Lab for CommunityLive EU 2025 *(Updated: 2025-10-22)*
-- **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomp... *(Updated: 2025-10-17)*
-- **[alfresco-upgrade-7-to-23](https://github.com/aborroy/alfresco-upgrade-7-to-23)** - Guide to upgrade Alfresco 7.0 to Alfresco 23.1 *(Updated: 2025-10-15)*
-- **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2025-10-13)*
-- **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** - Monitoring Alfresco SOLR with Prometheus and Grafana *(Updated: 2025-10-11)*
-- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** - Custom Alfresco TEngine to extract-metadata from an XML file *(Updated: 2025-10-10)*
-- **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** - Sample Docker Compose templates to help moving from Alfresco Identity Service to... *(Updated: 2025-10-09)*
 
 ## Technologies & Tools
 
