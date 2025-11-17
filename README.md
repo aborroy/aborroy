@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-11-10 06:36 UTC
+- Last updated: 2025-11-17 06:36 UTC
 
 ## Featured Projects
 
@@ -43,10 +43,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Docker & DevOps
 
+- **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐16 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐3 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐2 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 - **[alfresco-custom-metadata-extractor](https://github.com/aborroy/alfresco-custom-metadata-extractor)** ⭐2 `Dockerfile` - How to extract custom metadata from Alfresco 23.2 with Transform Service
-- **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐9 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐6 `Go` - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)** ⭐1 `Python` - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
@@ -91,6 +91,8 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2025-11-11)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-11-10)*
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-11-09)*
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-11-08)*
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-11-08)*
@@ -99,8 +101,6 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** - Adds a new JavaScript Root Object `base64` to Alfresco Repo *(Updated: 2025-11-05)*
 - **[alfresco-custom-metadata-extractor](https://github.com/aborroy/alfresco-custom-metadata-extractor)** - How to extract custom metadata from Alfresco 23.2 with Transform Service *(Updated: 2025-11-05)*
 - **[alf-tengine-excel](https://github.com/aborroy/alf-tengine-excel)** - Custom Alfresco TEngine to extract-metadata from an Excel file *(Updated: 2025-11-05)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-11-03)*
-- **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)** - Run untrusted or AI-generated Python analysis safely on Alfresco documents using... *(Updated: 2025-10-23)*
 
 ## Technologies & Tools
 
