@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-12-01 06:39 UTC
+- Last updated: 2025-12-08 06:40 UTC
 
 ## Featured Projects
 
@@ -91,10 +91,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-12-01)*
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** - Alfresco Repository add-on that extracts attachments from an Email when uploadin... *(Updated: 2025-11-26)*
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-11-24)*
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** - Sample Integration of OpenSearch Neural Search with Alfresco *(Updated: 2025-11-24)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-11-24)*
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2025-11-21)*
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-11-09)*
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-11-08)*
