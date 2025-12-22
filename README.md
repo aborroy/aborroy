@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-12-15 06:40 UTC
+- Last updated: 2025-12-22 06:40 UTC
 
 ## Featured Projects
 
@@ -91,7 +91,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-12-08)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-12-15)*
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** - Alfresco Repository add-on that extracts attachments from an Email when uploadin... *(Updated: 2025-11-26)*
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-11-24)*
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** - Sample Integration of OpenSearch Neural Search with Alfresco *(Updated: 2025-11-24)*
