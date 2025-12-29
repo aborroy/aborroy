@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2025-12-22 06:40 UTC
+- Last updated: 2025-12-29 06:41 UTC
 
 ## Featured Projects
 
@@ -31,6 +31,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### AI & Machine Learning
 
+- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐8 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)**  `TypeScript` - Run untrusted or AI-generated Python analysis safely on Alfresco documents using E2B ephemeral sandboxes
@@ -38,7 +39,6 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[alfresco-containers](https://github.com/aborroy/alfresco-containers)** ⭐1 `Dockerfile` - This project features sample and practical exercises for the training session "Alfresco Container-based Installation and Configuration Best Practices", presented at Alfresco TechQuest 2024
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 `Java` - Sample application to apply Spring AI services to Alfresco Repository
 - **[acs-ai-cl25](https://github.com/aborroy/acs-ai-cl25)** ⭐1 `Python` - AI Ready Content in ACS - CommunityLive25
-- **[summary-comparison-tool](https://github.com/aborroy/summary-comparison-tool)** ⭐2 `Python` - Comparing the quality of two summaries against a source Markdown document
 *...and 11 more repositories in this category*
 
 ### Docker & DevOps
@@ -55,6 +55,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐22 `Shell` - Collection of scripts to install Alfresco in Ubuntu
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐7 `Java` - OpenSearch support for Alfresco Community
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐5 `Java` - Create a Markdown rendition for every document in Alfresco Repository
@@ -62,7 +63,6 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[alfresco-b64-jscript-root](https://github.com/aborroy/alfresco-b64-jscript-root)** ⭐2 `Java` - Adds a new JavaScript Root Object `base64` to Alfresco Repo
 - **[alf-tengine-excel](https://github.com/aborroy/alf-tengine-excel)** ⭐3 `Java` - Custom Alfresco TEngine to extract-metadata from an Excel file
 - **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** ⭐4 `Python` - Source code for the Alfresco Agents Lab for CommunityLive EU 2025
-- **[alfresco-fix-extracter-update](https://github.com/aborroy/alfresco-fix-extracter-update)** ⭐3 `Java` - Fix for Alfresco Content Services 7.x / 23.x / 25.x that prevents lost or incomplete metadata updates when the legacy "extracter.Asynchronous" bean processes file updating
 *...and 38 more repositories in this category*
 
 ### API & Integration
@@ -91,7 +91,9 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-12-15)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2025-12-26)*
+- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2025-12-23)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-12-22)*
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** - Alfresco Repository add-on that extracts attachments from an Email when uploadin... *(Updated: 2025-11-26)*
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-11-24)*
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** - Sample Integration of OpenSearch Neural Search with Alfresco *(Updated: 2025-11-24)*
@@ -99,8 +101,6 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-11-09)*
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-11-08)*
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-11-08)*
-- **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** - Create a Markdown rendition for every document in Alfresco Repository *(Updated: 2025-11-08)*
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2025-11-06)*
 
 ## Technologies & Tools
 
