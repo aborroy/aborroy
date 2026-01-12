@@ -16,13 +16,13 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2026-01-05 06:45 UTC
+- Last updated: 2026-01-12 06:42 UTC
 
 ## Featured Projects
 
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 - Sample application to apply Spring AI services to Alfresco Repository
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)** ⭐1 - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
-- **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐6 - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
+- **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐5 - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐2 - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
@@ -43,19 +43,19 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Docker & DevOps
 
+- **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐5 `Go` - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐3 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐2 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 - **[alfresco-custom-metadata-extractor](https://github.com/aborroy/alfresco-custom-metadata-extractor)** ⭐2 `Dockerfile` - How to extract custom metadata from Alfresco 23.2 with Transform Service
 - **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐9 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
-- **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐6 `Go` - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)** ⭐1 `Python` - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
 - **[alf-tengine-pii](https://github.com/aborroy/alf-tengine-pii)** ⭐7 `Java` - Custom Alfresco TEngine to redact metadata in a PDF file
 *...and 31 more repositories in this category*
 
 ### Alfresco Extensions & Tools
 
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐24 `Shell` - Collection of scripts to install Alfresco in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐25 `Shell` - Collection of scripts to install Alfresco in Ubuntu
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐7 `Java` - OpenSearch support for Alfresco Community
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐5 `Java` - Create a Markdown rendition for every document in Alfresco Repository
@@ -91,8 +91,9 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2026-01-02)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2025-12-29)*
+- **[alf-k8s](https://github.com/aborroy/alf-k8s)** - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop *(Updated: 2026-01-09)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2026-01-06)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-01-05)*
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2025-12-23)*
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** - Alfresco Repository add-on that extracts attachments from an Email when uploadin... *(Updated: 2025-11-26)*
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-11-24)*
@@ -100,7 +101,6 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2025-11-21)*
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** - Simple Alfresco MCP Server that routes prompts to specialized MCP servers  *(Updated: 2025-11-09)*
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** - Sample implementation that provides a Gateway to access the Hyland Knowledge Enr... *(Updated: 2025-11-08)*
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2025-11-08)*
 
 ## Technologies & Tools
 
