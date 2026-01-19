@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 - **124** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2026-01-12 06:42 UTC
+- Last updated: 2026-01-19 06:45 UTC
 
 ## Featured Projects
 
@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐25 `Shell` - Collection of scripts to install Alfresco in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐25 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐7 `Java` - OpenSearch support for Alfresco Community
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐5 `Java` - Create a Markdown rendition for every document in Alfresco Repository
@@ -91,9 +91,9 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-01-16)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-01-12)*
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop *(Updated: 2026-01-09)*
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco in Ubuntu *(Updated: 2026-01-06)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-01-05)*
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2025-12-23)*
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** - Alfresco Repository add-on that extracts attachments from an Email when uploadin... *(Updated: 2025-11-26)*
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2025-11-24)*
