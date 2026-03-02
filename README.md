@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Quick Stats
 
-- **128** public repositories
+- **130** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2026-02-23 07:11 UTC
+- Last updated: 2026-03-02 07:04 UTC
 
 ## Featured Projects
 
@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### AI & Machine Learning
 
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)**  `TypeScript` - UI extension for Alfresco Content Lake to be used with ACA or ADW
-- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** ⭐1 `Java` - Alfresco AI App for Hyland Content Lake
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** ⭐2 `TypeScript` - UI extension for Alfresco Content Lake to be used with ACA or ADW
+- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** ⭐3 `Java` - Alfresco AI App for Hyland Content Lake
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[alfresco-simple-rag](https://github.com/aborroy/alfresco-simple-rag)** ⭐5 `Java` - This project demonstrates a production-ready RAG application for Alfresco using Spring AI.
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐8 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
@@ -43,22 +43,22 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Docker & DevOps
 
+- **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** ⭐1 `Java` - Alfresco Transform Engine that converts Markdown files to DOCX and PDF
+- **[alfresco-extensions-deployment](https://github.com/aborroy/alfresco-extensions-deployment)** ⭐2 `Shell` - Practical examples showing how to build, install and deploy Alfresco addons across three environments: on-prem, Docker Compose and Kubernetes.
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[search-services-replication](https://github.com/aborroy/search-services-replication)** ⭐5 `Dockerfile` - Alfresco Community with SOLR Replication in Master/Slave configuration
 - **[alf-k8s](https://github.com/aborroy/alf-k8s)** ⭐5 `Go` - Alfresco Community Kubernetes Deployment CLI using Helm and Docker Desktop
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐3 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[knowledge-enrichment-api](https://github.com/aborroy/knowledge-enrichment-api)** ⭐2 `Java` - Sample implementation that provides a Gateway to access the Hyland Knowledge Enrichment API in Java
 - **[alfresco-custom-metadata-extractor](https://github.com/aborroy/alfresco-custom-metadata-extractor)** ⭐2 `Dockerfile` - How to extract custom metadata from Alfresco 23.2 with Transform Service
-- **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐9 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
-- **[alfresco-sbom-generator](https://github.com/aborroy/alfresco-sbom-generator)** ⭐1 `Python` - Generate a Software Bill of Materials (SBOM) for any Alfresco Docker image in one command
-*...and 31 more repositories in this category*
+*...and 33 more repositories in this category*
 
 ### Alfresco Extensions & Tools
 
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐26 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐28 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
-- **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐9 - Monitoring Alfresco SOLR with Prometheus and Grafana
 - **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)**  `Shell` - Hands on Lab: Alfresco On-prem to Cloud-Ready
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐29 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐27 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
+- **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐9 - Monitoring Alfresco SOLR with Prometheus and Grafana
 - **[alf-pg11-partitioner](https://github.com/aborroy/alf-pg11-partitioner)** ⭐4 `Shell` - Alfresco Postgres 11 ALF_NODE_PROPERTIES table partitioner
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐7 `Java` - OpenSearch support for Alfresco Community
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2026-02-23)*
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-02-22)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-01)*
+- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-03-01)*
+- **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** - Alfresco Transform Engine that converts Markdown files to DOCX and PDF *(Updated: 2026-02-27)*
+- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-02-26)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-02-26)*
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2026-02-25)*
+- **[alfresco-extensions-deployment](https://github.com/aborroy/alfresco-extensions-deployment)** - Practical examples showing how to build, install and deploy Alfresco addons acro... *(Updated: 2026-02-25)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-02-23)*
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** - Monitoring Alfresco SOLR with Prometheus and Grafana *(Updated: 2026-02-22)*
-- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-02-20)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-02-17)*
-- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-02-17)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-02-16)*
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2026-02-13)*
-- **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** - Docker Image to use the Alfresco Docker Installer project *(Updated: 2026-02-02)*
-- **[alf-pg11-partitioner](https://github.com/aborroy/alf-pg11-partitioner)** - Alfresco Postgres 11 ALF_NODE_PROPERTIES table partitioner *(Updated: 2026-01-30)*
 
 ## Technologies & Tools
 
