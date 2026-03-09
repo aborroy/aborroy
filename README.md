@@ -13,10 +13,10 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Quick Stats
 
-- **130** public repositories
+- **131** public repositories
 - Active in **6** different technology areas
 - Based in Spain
-- Last updated: 2026-03-02 07:04 UTC
+- Last updated: 2026-03-09 07:07 UTC
 
 ## Featured Projects
 
@@ -31,15 +31,15 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### AI & Machine Learning
 
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** ⭐2 `TypeScript` - UI extension for Alfresco Content Lake to be used with ACA or ADW
 - **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** ⭐3 `Java` - Alfresco AI App for Hyland Content Lake
+- **[alfresco-content-lake-deployment](https://github.com/aborroy/alfresco-content-lake-deployment)**  `Shell` - Self-contained deployment for Alfresco Content Lake PoC
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** ⭐2 `TypeScript` - UI extension for Alfresco Content Lake to be used with ACA or ADW
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[alfresco-simple-rag](https://github.com/aborroy/alfresco-simple-rag)** ⭐5 `Java` - This project demonstrates a production-ready RAG application for Alfresco using Spring AI.
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐8 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-e2b-minimal](https://github.com/aborroy/alfresco-e2b-minimal)**  `TypeScript` - Run untrusted or AI-generated Python analysis safely on Alfresco documents using E2B ephemeral sandboxes
-- **[alf-tengine-xml](https://github.com/aborroy/alf-tengine-xml)** ⭐2 `Java` - Custom Alfresco TEngine to extract-metadata from an XML file
-*...and 14 more repositories in this category*
+*...and 15 more repositories in this category*
 
 ### Docker & DevOps
 
@@ -55,8 +55,8 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ### Alfresco Extensions & Tools
 
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐30 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
 - **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)**  `Shell` - Hands on Lab: Alfresco On-prem to Cloud-Ready
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐29 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐27 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐9 - Monitoring Alfresco SOLR with Prometheus and Grafana
 - **[alf-pg11-partitioner](https://github.com/aborroy/alf-pg11-partitioner)** ⭐4 `Shell` - Alfresco Postgres 11 ALF_NODE_PROPERTIES table partitioner
@@ -91,16 +91,16 @@ Welcome to my GitHub! I'm passionate about helping developers build better conte
 
 ## Recent Activity
 
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-01)*
-- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-03-01)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-03-07)*
+- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-03-04)*
+- **[alfresco-content-lake-deployment](https://github.com/aborroy/alfresco-content-lake-deployment)** - Self-contained deployment for Alfresco Content Lake PoC *(Updated: 2026-03-03)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-02)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-03-02)*
 - **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** - Alfresco Transform Engine that converts Markdown files to DOCX and PDF *(Updated: 2026-02-27)*
 - **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-02-26)*
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-02-26)*
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2026-02-25)*
 - **[alfresco-extensions-deployment](https://github.com/aborroy/alfresco-extensions-deployment)** - Practical examples showing how to build, install and deploy Alfresco addons acro... *(Updated: 2026-02-25)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-02-23)*
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** - Monitoring Alfresco SOLR with Prometheus and Grafana *(Updated: 2026-02-22)*
-- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2026-02-13)*
 
 ## Technologies & Tools
 
