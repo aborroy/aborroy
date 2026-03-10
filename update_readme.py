@@ -34,36 +34,42 @@ def get_github_repos(username, token):
     return repos
 
 def categorize_repositories(repos):
-    """Categorize repositories based on topics and names"""
+    """Categorize repositories based on topics and names.
+    
+    Categories are ordered to prioritize broader, technology-focused groupings.
+    Repos are matched to the FIRST category whose keywords match, so order matters:
+    AI/RAG first (most distinctive), then MCP/Agents, Docker, Search, and finally
+    the Alfresco catch-all for platform-specific tooling.
+    """
     categories = {
-        'ai_ml': {
-            'title': 'AI & Machine Learning',
-            'keywords': ['ai', 'ml', 'spring-ai', 'llm', 'genai', 'summarizer', 'openai', 'ollama'],
+        'ai_rag': {
+            'title': 'AI / RAG / LLM',
+            'keywords': ['ai', 'ml', 'spring-ai', 'llm', 'genai', 'summarizer', 'openai', 'ollama', 'rag', 'content-lake', 'e2b', 'embedding'],
             'repos': []
         },
-        'docker_devops': {
-            'title': 'Docker & DevOps',
-            'keywords': ['docker', 'kubernetes', 'k8s', 'container', 'devops', 'sbom', 'helm'],
+        'mcp_agents': {
+            'title': 'MCP Servers & Agents',
+            'keywords': ['mcp', 'agent', 'mesh'],
+            'repos': []
+        },
+        'docker_k8s': {
+            'title': 'Docker & Kubernetes',
+            'keywords': ['docker', 'kubernetes', 'k8s', 'container', 'helm', 'installer', 'sbom'],
+            'repos': []
+        },
+        'search': {
+            'title': 'Search (Solr / OpenSearch)',
+            'keywords': ['solr', 'opensearch', 'search', 'neural-search', 'replication'],
             'repos': []
         },
         'alfresco': {
-            'title': 'Alfresco Extensions & Tools',
-            'keywords': ['alfresco', 'alf-', 'tengine', 'share', 'content-model'],
+            'title': 'Alfresco Ecosystem',
+            'keywords': ['alfresco', 'alf-', 'tengine', 'share', 'content-model', 'hyland'],
             'repos': []
         },
-        'api_integration': {
-            'title': 'API & Integration',
-            'keywords': ['api', 'connector', 'integration', 'mcp', 'gateway', 'hyland'],
-            'repos': []
-        },
-        'tools_utilities': {
-            'title': 'Tools & Utilities',
-            'keywords': ['tool', 'utility', 'generator', 'extractor', 'installer'],
-            'repos': []
-        },
-        'educational': {
-            'title': 'Educational & Samples',
-            'keywords': ['tutorial', 'sample', 'demo', 'training', 'example', 'poc'],
+        'other': {
+            'title': 'Other Projects',
+            'keywords': [],
             'repos': []
         }
     }
@@ -79,8 +85,10 @@ def categorize_repositories(repos):
         
         categorized = False
         
-        # Check each category
+        # Check each category (order matters — first match wins)
         for cat_key, category in categories.items():
+            if cat_key == 'other':
+                continue
             for keyword in category['keywords']:
                 if (keyword in repo_name or 
                     keyword in repo_topics or 
@@ -91,9 +99,16 @@ def categorize_repositories(repos):
             if categorized:
                 break
         
-        # If not categorized, add to tools & utilities
+        # If not categorized, add to other
         if not categorized:
-            categories['tools_utilities']['repos'].append(repo)
+            categories['other']['repos'].append(repo)
+    
+    # Sort repos within each category by stars (descending)
+    for cat_key, category in categories.items():
+        category['repos'].sort(key=lambda r: r['stargazers_count'], reverse=True)
+    
+    # Remove empty categories
+    categories = {k: v for k, v in categories.items() if v['repos']}
     
     return categories
 
@@ -125,13 +140,12 @@ def load_config():
         with open('config.json', 'r') as f:
             return json.load(f)
     except FileNotFoundError:
-        # Default configuration
         return {
             "personal_info": {
                 "name": "Angel Borroy",
-                "title": "Developer Evangelist @ Hyland Software | Docker Captain",
+                "title": "Docker Captain | Java · Spring AI · RAG · Open Source | Cryptography & Cybersecurity Lecturer",
                 "location": "Spain",
-                "website": "https://connect.hyland.com/",
+                "website": "https://angelborroy.wordpress.com/category/english/",
                 "social": {
                     "twitter": "@AngelBorroy", 
                     "linkedin": "in/angelborroy",
@@ -140,15 +154,16 @@ def load_config():
                 }
             },
             "featured_repos": [
-                "alfresco-ai-framework",
-                "alfresco-sbom-generator", 
-                "alf-k8s",
-                "spring-ai-summarizer"
+                "alfresco-genai",
+                "spring-ai-summarizer",
+                "simple-alfresco-agent-mesh",
+                "alfresco-content-lake"
             ],
             "technologies": [
-                "Java", "Python", "JavaScript", "Go", "Shell/Bash",
-                "Docker", "Kubernetes", "Alfresco", "Spring Framework",
-                "Spring AI", "Ollama", "OpenAI", "Various LLMs"
+                "Java", "Spring AI", "Python", "RAG / Vector Search",
+                "Docker", "Kubernetes", "MCP Servers", "OpenSearch / Solr",
+                "Go", "Shell/Bash", "JavaScript / TypeScript",
+                "Ollama / vLLM", "Cryptography", "Alfresco / Content Management"
             ]
         }
 
@@ -169,10 +184,8 @@ def main():
     categories = categorize_repositories(repos)
     
     # Get recent activity
-    recent_activity = get_recent_activity(repos)
-    
-    # Load configuration
     config = load_config()
+    recent_activity = get_recent_activity(repos, config.get('recent_activity_days', 90))
     
     # Load template
     with open('template.md', 'r') as f:
@@ -199,6 +212,10 @@ def main():
         f.write(readme_content)
     
     print("README.md updated successfully!")
+    
+    # Print category summary
+    for cat_key, category in categories.items():
+        print(f"  {category['title']}: {len(category['repos'])} repos")
 
 if __name__ == "__main__":
     main()

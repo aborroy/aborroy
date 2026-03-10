@@ -1,9 +1,9 @@
 {
   "personal_info": {
     "name": "Angel Borroy",
-    "title": "Developer Evangelist @ Hyland Software | Docker Captain",
+    "title": "Docker Captain | Java · Spring AI · RAG · Open Source | Cryptography & Cybersecurity Lecturer",
     "location": "Spain",
-    "website": "https://connect.hyland.com/",
+    "website": "https://angelborroy.wordpress.com/category/english/",
     "social": {
       "twitter": "@AngelBorroy",
       "linkedin": "in/angelborroy",
@@ -12,29 +12,29 @@
     }
   },
   "featured_repos": [
-    "alfresco-ai-framework",
-    "alfresco-sbom-generator",
-    "alf-k8s",
+    "alfresco-genai",
     "spring-ai-summarizer",
-    "knowledge-enrichment-api",
-    "alf-tengine-convert2md"
+    "simple-alfresco-agent-mesh",
+    "alfresco-content-lake",
+    "alf-tengine-ocr",
+    "alfresco-ubuntu-installer"
   ],
   "technologies": [
     "Java",
-    "Python", 
-    "JavaScript",
-    "Go",
-    "Shell/Bash",
+    "Spring AI",
+    "Python",
+    "RAG / Vector Search",
     "Docker",
     "Kubernetes",
-    "Alfresco",
-    "Spring Framework",
-    "Spring AI",
-    "Ollama",
-    "OpenAI",
-    "Various LLMs",
-    "AWS"
+    "MCP Servers",
+    "OpenSearch / Solr",
+    "Go",
+    "Shell/Bash",
+    "JavaScript / TypeScript",
+    "Ollama / vLLM",
+    "Cryptography",
+    "Alfresco / Content Management"
   ],
   "recent_activity_days": 90,
-  "max_repos_per_category": 8
+  "max_repos_per_category": 5
 }
