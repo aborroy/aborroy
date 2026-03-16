@@ -53,7 +53,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[llama2-docker-multiarch](https://github.com/aborroy/llama2-docker-multiarch)** ⭐18 `Dockerfile` - Llama 2 Docker Image supporting AMD64 and ARCH64 architectures
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-dockerx-builder](https://github.com/aborroy/alfresco-dockerx-builder)** ⭐13 `Dockerfile` - Sample script to build Alfresco Docker Images for ARM64 (Apple Silicon)
-- **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐9 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
+- **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐10 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
   *...and 35 more repositories in this category*
 
 ### Search (Solr / OpenSearch)
@@ -85,16 +85,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-13)*
+- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-03-13)*
+- **[alfresco-content-lake-deployment](https://github.com/aborroy/alfresco-content-lake-deployment)** - Self-contained deployment for Alfresco Content Lake PoC *(Updated: 2026-03-13)*
+- **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** - Sample Docker Compose templates to help moving from Alfresco Identity Service to... *(Updated: 2026-03-11)*
 - **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-03-10)*
-- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-03-10)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-10)*
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-03-09)*
-- **[alfresco-content-lake-deployment](https://github.com/aborroy/alfresco-content-lake-deployment)** - Self-contained deployment for Alfresco Content Lake PoC *(Updated: 2026-03-09)*
 - **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** - Alfresco Transform Engine that converts Markdown files to DOCX and PDF *(Updated: 2026-02-27)*
 - **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-02-26)*
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2026-02-25)*
 - **[alfresco-extensions-deployment](https://github.com/aborroy/alfresco-extensions-deployment)** - Practical examples showing how to build, install and deploy Alfresco addons acro... *(Updated: 2026-02-25)*
-- **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** - Monitoring Alfresco SOLR with Prometheus and Grafana *(Updated: 2026-02-22)*
 
 ## Technologies & Tools
 
@@ -114,6 +114,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-03-10 15:05 UTC*
+*Last updated: 2026-03-16 07:24 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
