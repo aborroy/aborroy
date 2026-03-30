@@ -9,7 +9,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **AI & RAG Pipelines**: Semantic search, retrieval-augmented generation, and LLM integration with Spring AI, vector databases, and embedding models
 - **MCP Servers & Agents**: Building Model Context Protocol servers for AI-powered workflows
 - **Docker & Cloud-Native**: Containerized architectures, Kubernetes deployments, and developer tooling — [Docker Captain](https://www.docker.com/captains/) since 2020
-- **Open Source**: 134+ public repositories, transform engines, search integrations, and developer utilities
+- **Open Source**: 136+ public repositories, transform engines, search integrations, and developer utilities
 - **Teaching**: Cryptography and cybersecurity lecturer — Enigma machine implementation, CTF challenges, and hands-on workshops ([enigma-python](https://github.com/angelborroy/enigma-python))
 
 ## Featured Projects
@@ -17,9 +17,8 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐3 - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
-- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** ⭐4 - Alfresco AI App for Hyland Content Lake
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐27 - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐31 - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐32 - Collection of scripts to install Alfresco Community in Ubuntu
 
 ## Talks & Writing
 
@@ -35,8 +34,8 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 `Java` - Sample application to apply Spring AI services to Alfresco Repository
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐8 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
-- **[alfresco-simple-rag](https://github.com/aborroy/alfresco-simple-rag)** ⭐5 `Java` - This project demonstrates a production-ready RAG application for Alfresco using Spring AI.
-  *...and 20 more repositories in this category*
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** ⭐6 `Shell` - A Claude Code plugin that packages Alfresco extension development as slash commands, skills, and agents
+  *...and 21 more repositories in this category*
 
 ### MCP Servers & Agents
 
@@ -49,7 +48,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ### Docker & Kubernetes
 
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐31 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐32 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
 - **[llama2-docker-multiarch](https://github.com/aborroy/llama2-docker-multiarch)** ⭐18 `Dockerfile` - Llama 2 Docker Image supporting AMD64 and ARCH64 architectures
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-dockerx-builder](https://github.com/aborroy/alfresco-dockerx-builder)** ⭐13 `Dockerfile` - Sample script to build Alfresco Docker Images for ARM64 (Apple Silicon)
@@ -78,23 +77,23 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 - **[mnt-22668](https://github.com/aborroy/mnt-22668)** ⭐3 `Java` - Patch MNT-22668 for ACS 7.2
 - **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 `Python` - About me
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)**  `Shell` - Nuxeo LTS deployment built from source code.
 - **[backup-tm](https://github.com/aborroy/backup-tm)**  `Shell` - A lightweight incremental backup for macOS using rsync controlled from a menu bar icon
 - **[ghc-2021](https://github.com/aborroy/ghc-2021)**  `Java` - No description available
-- **[mnt-20910](https://github.com/aborroy/mnt-20910)**  `Dockerfile` - No description available
-  *...and 5 more repositories in this category*
+  *...and 6 more repositories in this category*
 
 ## Recent Activity
 
-- **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** - Alfresco Transform Engine that converts Markdown files to DOCX and PDF *(Updated: 2026-03-22)*
-- **[backup-tm](https://github.com/aborroy/backup-tm)** - A lightweight incremental backup for macOS using rsync controlled from a menu ba... *(Updated: 2026-03-22)*
-- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-03-22)*
-- **[content-dedup](https://github.com/aborroy/content-dedup)** - Alfresco Repository addon created entirely by Claude using aiup-alfresco (skills... *(Updated: 2026-03-20)*
-- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-03-20)*
-- **[alfresco-content-lake](https://github.com/aborroy/alfresco-content-lake)** - Alfresco AI App for Hyland Content Lake *(Updated: 2026-03-18)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-03-16)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-13)*
-- **[alfresco-content-lake-deployment](https://github.com/aborroy/alfresco-content-lake-deployment)** - Self-contained deployment for Alfresco Content Lake PoC *(Updated: 2026-03-13)*
-- **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** - Sample Docker Compose templates to help moving from Alfresco Identity Service to... *(Updated: 2026-03-11)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-03-30)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-03-30)*
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-03-28)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-03-27)*
+- **[backup-tm](https://github.com/aborroy/backup-tm)** - A lightweight incremental backup for macOS using rsync controlled from a menu ba... *(Updated: 2026-03-27)*
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-03-27)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-03-26)*
+- **[alfresco-vendor-contracts](https://github.com/aborroy/alfresco-vendor-contracts)** - Alfresco Content Services extension for vendor contract management generated ent... *(Updated: 2026-03-25)*
+- **[content-dedup](https://github.com/aborroy/content-dedup)** - Alfresco Repository addon created entirely by Claude using aiup-alfresco (skills... *(Updated: 2026-03-25)*
+- **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** - Alfresco Transform Engine that converts Markdown files to DOCX and PDF *(Updated: 2026-03-24)*
 
 ## Technologies & Tools
 
@@ -114,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-03-23 07:17 UTC*
+*Last updated: 2026-03-30 07:49 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
