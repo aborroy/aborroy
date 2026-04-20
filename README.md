@@ -32,7 +32,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 `Java` - Sample application to apply Spring AI services to Alfresco Repository
-- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** ⭐8 `Shell` - A Claude Code plugin that packages Alfresco extension development as slash commands, skills, and agents
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** ⭐10 `Shell` - A Claude Code plugin that packages Alfresco extension development as slash commands, skills, and agents
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐8 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐7 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
   *...and 22 more repositories in this category*
@@ -84,16 +84,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-04-10)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-04-10)*
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-04-16)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-04-16)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-04-16)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-04-16)*
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-04-16)*
+- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-04-15)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-04-13)*
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** - Sample application to apply Spring AI services to Alfresco Repository *(Updated: 2026-04-10)*
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2026-04-10)*
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2026-04-10)*
-- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-04-10)*
-- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-04-09)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-04-08)*
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-04-07)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-04-06)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-04-13 08:10 UTC*
+*Last updated: 2026-04-20 08:16 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
