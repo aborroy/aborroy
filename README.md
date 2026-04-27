@@ -9,7 +9,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **AI & RAG Pipelines**: Semantic search, retrieval-augmented generation, and LLM integration with Spring AI, vector databases, and embedding models
 - **MCP Servers & Agents**: Building Model Context Protocol servers for AI-powered workflows
 - **Docker & Cloud-Native**: Containerized architectures, Kubernetes deployments, and developer tooling — [Docker Captain](https://www.docker.com/captains/) since 2020
-- **Open Source**: 137+ public repositories, transform engines, search integrations, and developer utilities
+- **Open Source**: 138+ public repositories, transform engines, search integrations, and developer utilities
 - **Teaching**: Cryptography and cybersecurity lecturer — Enigma machine implementation, CTF challenges, and hands-on workshops ([enigma-python](https://github.com/angelborroy/enigma-python))
 
 ## Featured Projects
@@ -44,7 +44,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** ⭐5 `Dockerfile` - Laboratory to use a MCP Server with Alfresco Community
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐4 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** ⭐2 `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
-  *...and 1 more repositories in this category*
+  *...and 2 more repositories in this category*
 
 ### Docker & Kubernetes
 
@@ -58,7 +58,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 ### Search (Solr / OpenSearch)
 
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐9 - Monitoring Alfresco SOLR with Prometheus and Grafana
-- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐7 `Java` - OpenSearch support for Alfresco Community
+- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐8 `Java` - OpenSearch support for Alfresco Community
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[solr-sharding-reindex](https://github.com/aborroy/solr-sharding-reindex)** ⭐3 `Dockerfile` - Alfresco Search Services Indexer for Sharding Environments
 - **[share-live-search-disable](https://github.com/aborroy/share-live-search-disable)** ⭐3 `JavaScript` - Disable Live Search feature for Alfresco Share
@@ -84,16 +84,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-04-27)*
+- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2026-04-26)*
+- **[alfresco-mcp-sample](https://github.com/aborroy/alfresco-mcp-sample)** - How to use Alfresco MCP Server in a sample project *(Updated: 2026-04-22)*
+- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-04-22)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-04-21)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-04-20)*
 - **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-04-16)*
 - **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-04-16)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-04-16)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-04-16)*
 - **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-04-16)*
-- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-04-15)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-04-13)*
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** - Sample application to apply Spring AI services to Alfresco Repository *(Updated: 2026-04-10)*
-- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2026-04-10)*
-- **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** - Private AI application to Content Management use cases with GenAI & Alfresco *(Updated: 2026-04-10)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-04-20 08:16 UTC*
+*Last updated: 2026-04-27 08:32 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
