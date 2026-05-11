@@ -43,7 +43,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** ⭐5 `Python` - Source code for the Alfresco Agents Lab for CommunityLive EU 2025
 - **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** ⭐5 `Dockerfile` - Laboratory to use a MCP Server with Alfresco Community
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐4 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
-- **[kd-agent-connector](https://github.com/aborroy/kd-agent-connector)** ⭐2 `Java` - Alfresco Repository addon to connect with Hyland Knowledge Discovery service
+- **[alfresco-mcp-sample](https://github.com/aborroy/alfresco-mcp-sample)** ⭐2 `JavaScript` - How to use Alfresco MCP Server in a sample project
   *...and 2 more repositories in this category*
 
 ### Docker & Kubernetes
@@ -84,16 +84,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-05-04)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-05-08)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-05-05)*
+- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-05-05)*
+- **[alfresco-mcp-sample](https://github.com/aborroy/alfresco-mcp-sample)** - How to use Alfresco MCP Server in a sample project *(Updated: 2026-05-05)*
+- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-05-05)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-05-04)*
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-05-04)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-05-04)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-05-04)*
 - **[alf-tengine-pii](https://github.com/aborroy/alf-tengine-pii)** - Custom Alfresco TEngine to redact metadata in a PDF file *(Updated: 2026-05-02)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-04-30)*
-- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-04-29)*
-- **[alfresco-mcp-sample](https://github.com/aborroy/alfresco-mcp-sample)** - How to use Alfresco MCP Server in a sample project *(Updated: 2026-04-29)*
-- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-04-27)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-04-27)*
-- **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** - OpenSearch support for Alfresco Community *(Updated: 2026-04-26)*
-- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-04-22)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-04-21)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-05-04 08:34 UTC*
+*Last updated: 2026-05-11 09:48 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
