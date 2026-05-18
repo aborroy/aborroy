@@ -17,7 +17,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐4 - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐27 - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐28 - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐33 - Collection of scripts to install Alfresco Community in Ubuntu
 
 ## Talks & Writing
@@ -66,7 +66,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ### Alfresco Ecosystem
 
-- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐27 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐28 `Java` - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
 - **[alfresco-go-cli](https://github.com/aborroy/alfresco-go-cli)** ⭐8 `Go` - A Command Line Interface for ACS implemented in GO.
 - **[cmis-associations-alfresco](https://github.com/aborroy/cmis-associations-alfresco)** ⭐7 `Java` - Alfresco CMIS Relationships (associations)
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐5 `Java` - Create a Markdown rendition for every document in Alfresco Repository
@@ -84,16 +84,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
+- **[alfresco-docker-best-practices](https://github.com/aborroy/alfresco-docker-best-practices)** - Best Practices for Deploying Alfresco Community & Enterprise with Docker Compose *(Updated: 2026-05-18)*
+- **[alf-tengine-md2doc](https://github.com/aborroy/alf-tengine-md2doc)** - Alfresco Transform Engine that converts Markdown files to DOCX and PDF *(Updated: 2026-05-18)*
+- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-05-15)*
+- **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF *(Updated: 2026-05-15)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-05-14)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-05-11)*
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-05-08)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-05-05)*
 - **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-05-05)*
 - **[alfresco-mcp-sample](https://github.com/aborroy/alfresco-mcp-sample)** - How to use Alfresco MCP Server in a sample project *(Updated: 2026-05-05)*
-- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-05-05)*
 - **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-05-04)*
-- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-05-04)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-05-04)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-05-04)*
-- **[alf-tengine-pii](https://github.com/aborroy/alf-tengine-pii)** - Custom Alfresco TEngine to redact metadata in a PDF file *(Updated: 2026-05-02)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-05-11 09:48 UTC*
+*Last updated: 2026-05-18 10:12 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
