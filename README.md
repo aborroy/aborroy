@@ -9,7 +9,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **AI & RAG Pipelines**: Semantic search, retrieval-augmented generation, and LLM integration with Spring AI, vector databases, and embedding models
 - **MCP Servers & Agents**: Building Model Context Protocol servers for AI-powered workflows
 - **Docker & Cloud-Native**: Containerized architectures, Kubernetes deployments, and developer tooling — [Docker Captain](https://www.docker.com/captains/) since 2020
-- **Open Source**: 140+ public repositories, transform engines, search integrations, and developer utilities
+- **Open Source**: 142+ public repositories, transform engines, search integrations, and developer utilities
 - **Teaching**: Cryptography and cybersecurity lecturer — Enigma machine implementation, CTF challenges, and hands-on workshops ([enigma-python](https://github.com/angelborroy/enigma-python))
 
 ## Featured Projects
@@ -32,10 +32,10 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
 - **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 `Java` - Sample application to apply Spring AI services to Alfresco Repository
-- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** ⭐11 `Shell` - A Claude Code plugin that packages Alfresco extension development as slash commands, skills, and agents
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** ⭐12 `Shell` - A Claude Code plugin that packages Alfresco extension development as slash commands, skills, and agents
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐8 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
 - **[alfresco-outlook-attachments](https://github.com/aborroy/alfresco-outlook-attachments)** ⭐8 `Java` - Alfresco Repository add-on that extracts attachments from an Email when uploading
-  *...and 24 more repositories in this category*
+  *...and 25 more repositories in this category*
 
 ### MCP Servers & Agents
 
@@ -53,14 +53,14 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-dockerx-builder](https://github.com/aborroy/alfresco-dockerx-builder)** ⭐13 `Dockerfile` - Sample script to build Alfresco Docker Images for ARM64 (Apple Silicon)
 - **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐10 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
-  *...and 36 more repositories in this category*
+  *...and 37 more repositories in this category*
 
 ### Search (Solr / OpenSearch)
 
 - **[alfresco-solr-monitoring](https://github.com/aborroy/alfresco-solr-monitoring)** ⭐9 - Monitoring Alfresco SOLR with Prometheus and Grafana
 - **[alfresco-open-ass](https://github.com/aborroy/alfresco-open-ass)** ⭐8 `Java` - OpenSearch support for Alfresco Community
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
-- **[solr-sharding-reindex](https://github.com/aborroy/solr-sharding-reindex)** ⭐3 `Dockerfile` - Alfresco Search Services Indexer for Sharding Environments
+- **[solr-sharding-reindex](https://github.com/aborroy/solr-sharding-reindex)** ⭐4 `Dockerfile` - Alfresco Search Services Indexer for Sharding Environments
 - **[share-live-search-disable](https://github.com/aborroy/share-live-search-disable)** ⭐3 `JavaScript` - Disable Live Search feature for Alfresco Share
   *...and 14 more repositories in this category*
 
@@ -76,24 +76,24 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 ### Other Projects
 
 - **[mnt-22668](https://github.com/aborroy/mnt-22668)** ⭐3 `Java` - Patch MNT-22668 for ACS 7.2
-- **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 `Python` - About me
 - **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** ⭐1 `HTML` - Nuxeo LTS deployment built from source code.
+- **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 `Python` - About me
 - **[backup-tm](https://github.com/aborroy/backup-tm)**  `Shell` - A lightweight incremental backup for macOS using rsync controlled from a menu bar icon
 - **[ghc-2021](https://github.com/aborroy/ghc-2021)**  `Java` - No description available
   *...and 6 more repositories in this category*
 
 ## Recent Activity
 
-- **[quantum-resistant-alfresco-tls](https://github.com/aborroy/quantum-resistant-alfresco-tls)** - A runnable ACS 26.1 deployment hardened against quantum attacks on TLS *(Updated: 2026-06-03)*
-- **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-06-02)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-06-01)*
-- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-05-31)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-05-31)*
-- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-05-28)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-05-27)*
-- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-05-26)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-05-26)*
-- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-05-25)*
+- **[alfresco-community-compose-hardened](https://github.com/aborroy/alfresco-community-compose-hardened)** - Hardened Docker Compose deployment for Alfresco Community  *(Updated: 2026-06-14)*
+- **[alfresco-aiup-take-ownership](https://github.com/aborroy/alfresco-aiup-take-ownership)** - Alfresco AIUP Generated. ADF/ACA extension that lets Alfresco administrators tak... *(Updated: 2026-06-11)*
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-06-11)*
+- **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-06-10)*
+- **[solr-sharding-docker-compose](https://github.com/aborroy/solr-sharding-docker-compose)** - Docker Compose deployment templates for Alfresco SOLR Sharding methods. *(Updated: 2026-06-09)*
+- **[solr-sharding-reindex](https://github.com/aborroy/solr-sharding-reindex)** - Alfresco Search Services Indexer for Sharding Environments *(Updated: 2026-06-09)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-06-09)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-06-09)*
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-06-09)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-06-09)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-06-08 11:04 UTC*
+*Last updated: 2026-06-15 12:24 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
