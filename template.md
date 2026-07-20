@@ -54,7 +54,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 ## Recent Activity
 
 {% for repo in recent_activity %}
-- **[{{ repo.name }}]({{ repo.html_url }})** - {{ repo.description[:80] }}{% if repo.description|length > 80 %}...{% endif %} *(Updated: {{ repo.updated_at }})*
+- **[{{ repo.name }}]({{ repo.html_url }})** - {{ (repo.description or "")[:80] }}{% if (repo.description or "")|length > 80 %}...{% endif %} *(Updated: {{ repo.updated_at }})*
 {% endfor %}
 
 ## Technologies & Tools
