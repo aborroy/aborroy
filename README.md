@@ -9,7 +9,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **AI & RAG Pipelines**: Semantic search, retrieval-augmented generation, and LLM integration with Spring AI, vector databases, and embedding models
 - **MCP Servers & Agents**: Building Model Context Protocol servers for AI-powered workflows
 - **Docker & Cloud-Native**: Containerized architectures, Kubernetes deployments, and developer tooling — [Docker Captain](https://www.docker.com/captains/) since 2020
-- **Open Source**: 142+ public repositories, transform engines, search integrations, and developer utilities
+- **Open Source**: 144+ public repositories, transform engines, search integrations, and developer utilities
 - **Teaching**: Cryptography and cybersecurity lecturer — Enigma machine implementation, CTF challenges, and hands-on workshops ([enigma-python](https://github.com/angelborroy/enigma-python))
 
 ## Featured Projects
@@ -18,7 +18,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐4 - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐29 - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐34 - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐35 - Collection of scripts to install Alfresco Community in Ubuntu
 
 ## Talks & Writing
 
@@ -44,11 +44,11 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-mcp-lab](https://github.com/aborroy/alfresco-mcp-lab)** ⭐5 `Dockerfile` - Laboratory to use a MCP Server with Alfresco Community
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐4 `Python` - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[alfresco-mcp-sample](https://github.com/aborroy/alfresco-mcp-sample)** ⭐3 `JavaScript` - How to use Alfresco MCP Server in a sample project
-  *...and 2 more repositories in this category*
+  *...and 3 more repositories in this category*
 
 ### Docker & Kubernetes
 
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐34 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐35 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
 - **[llama2-docker-multiarch](https://github.com/aborroy/llama2-docker-multiarch)** ⭐17 `Dockerfile` - Llama 2 Docker Image supporting AMD64 and ARCH64 architectures
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-dockerx-builder](https://github.com/aborroy/alfresco-dockerx-builder)** ⭐13 `Dockerfile` - Sample script to build Alfresco Docker Images for ARM64 (Apple Silicon)
@@ -71,29 +71,29 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[cmis-associations-alfresco](https://github.com/aborroy/cmis-associations-alfresco)** ⭐7 `Java` - Alfresco CMIS Relationships (associations)
 - **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** ⭐6 `Java` - New JavaScript Root Objects for Alfresco Repo
 - **[alfresco-markdown-rendition](https://github.com/aborroy/alfresco-markdown-rendition)** ⭐6 `Java` - Create a Markdown rendition for every document in Alfresco Repository
-  *...and 28 more repositories in this category*
+  *...and 29 more repositories in this category*
 
 ### Other Projects
 
 - **[mnt-22668](https://github.com/aborroy/mnt-22668)** ⭐3 `Java` - Patch MNT-22668 for ACS 7.2
-- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** ⭐1 `HTML` - Nuxeo LTS deployment built from source code.
 - **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 `Python` - About me
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** ⭐1 `HTML` - Nuxeo LTS deployment built from source code.
 - **[backup-tm](https://github.com/aborroy/backup-tm)**  `Shell` - A lightweight incremental backup for macOS using rsync controlled from a menu bar icon
 - **[ghc-2021](https://github.com/aborroy/ghc-2021)**  `Java` - No description available
   *...and 6 more repositories in this category*
 
 ## Recent Activity
 
-- **[alfresco-community-compose-hardened](https://github.com/aborroy/alfresco-community-compose-hardened)** - Hardened Docker Compose deployment for Alfresco Community  *(Updated: 2026-06-14)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-07-13)*
+- **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-07-03)*
+- **[alfresco-download-streaming-repo](https://github.com/aborroy/alfresco-download-streaming-repo)** - ACS Repository add-on providing large file downloads with resume support *(Updated: 2026-07-02)*
+- **[sbx-alfresco-mcp-kit](https://github.com/aborroy/sbx-alfresco-mcp-kit)** -  *(Updated: 2026-06-25)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-06-24)*
+- **[alfresco-agents-lab-clive](https://github.com/aborroy/alfresco-agents-lab-clive)** - Source code for the Alfresco Agents Lab for CommunityLive EU 2025 *(Updated: 2026-06-18)*
+- **[alfresco-community-compose-hardened](https://github.com/aborroy/alfresco-community-compose-hardened)** - Hardened Docker Compose deployment for Alfresco Community  *(Updated: 2026-06-15)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-06-15)*
 - **[alfresco-aiup-take-ownership](https://github.com/aborroy/alfresco-aiup-take-ownership)** - Alfresco AIUP Generated. ADF/ACA extension that lets Alfresco administrators tak... *(Updated: 2026-06-11)*
 - **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-06-11)*
-- **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-06-10)*
-- **[solr-sharding-docker-compose](https://github.com/aborroy/solr-sharding-docker-compose)** - Docker Compose deployment templates for Alfresco SOLR Sharding methods. *(Updated: 2026-06-09)*
-- **[solr-sharding-reindex](https://github.com/aborroy/solr-sharding-reindex)** - Alfresco Search Services Indexer for Sharding Environments *(Updated: 2026-06-09)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-06-09)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-06-09)*
-- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-06-09)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-06-09)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-06-15 12:24 UTC*
+*Last updated: 2026-07-20 09:24 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
