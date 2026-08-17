@@ -84,14 +84,14 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-08-13)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-08-12)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-08-10)*
 - **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-08-09)*
 - **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-08-06)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-08-03)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-08-03)*
 - **[auditable-aspect-disable](https://github.com/aborroy/auditable-aspect-disable)** - Alfresco Repository module to disable AUDITABLE ASPECT behaviour *(Updated: 2026-08-03)*
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-07-31)*
 - **[alfresco-elasticsearch-tls-deployment](https://github.com/aborroy/alfresco-elasticsearch-tls-deployment)** - Deployment sample for Alfresco Search Enterprise (Elasticsearch) using Basic Aut... *(Updated: 2026-07-30)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-07-27)*
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2026-07-22)*
 - **[alfresco-download-streaming-repo](https://github.com/aborroy/alfresco-download-streaming-repo)** - ACS Repository add-on providing large file downloads with resume support *(Updated: 2026-07-22)*
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-08-10 07:47 UTC*
+*Last updated: 2026-08-17 07:01 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
