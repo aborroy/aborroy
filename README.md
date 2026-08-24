@@ -9,7 +9,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **AI & RAG Pipelines**: Semantic search, retrieval-augmented generation, and LLM integration with Spring AI, vector databases, and embedding models
 - **MCP Servers & Agents**: Building Model Context Protocol servers for AI-powered workflows
 - **Docker & Cloud-Native**: Containerized architectures, Kubernetes deployments, and developer tooling — [Docker Captain](https://www.docker.com/captains/) since 2020
-- **Open Source**: 145+ public repositories, transform engines, search integrations, and developer utilities
+- **Open Source**: 147+ public repositories, transform engines, search integrations, and developer utilities
 - **Teaching**: Cryptography and cybersecurity lecturer — Enigma machine implementation, CTF challenges, and hands-on workshops ([enigma-python](https://github.com/angelborroy/enigma-python))
 
 ## Featured Projects
@@ -18,7 +18,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** ⭐3 - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner
 - **[simple-alfresco-agent-mesh](https://github.com/aborroy/simple-alfresco-agent-mesh)** ⭐4 - Simple Alfresco MCP Server that routes prompts to specialized MCP servers 
 - **[alf-tengine-ocr](https://github.com/aborroy/alf-tengine-ocr)** ⭐29 - Alfresco Transformer For ACS 70+ from PDF to OCRd PDF
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐36 - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐37 - Collection of scripts to install Alfresco Community in Ubuntu
 
 ## Talks & Writing
 
@@ -48,12 +48,12 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ### Docker & Kubernetes
 
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐36 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** ⭐37 `Shell` - Collection of scripts to install Alfresco Community in Ubuntu
 - **[llama2-docker-multiarch](https://github.com/aborroy/llama2-docker-multiarch)** ⭐17 `Dockerfile` - Llama 2 Docker Image supporting AMD64 and ARCH64 architectures
 - **[alfresco-installer](https://github.com/aborroy/alfresco-installer)** ⭐17 `Dockerfile` - Docker Image to use the Alfresco Docker Installer project
 - **[alfresco-dockerx-builder](https://github.com/aborroy/alfresco-dockerx-builder)** ⭐13 `Dockerfile` - Sample script to build Alfresco Docker Images for ARM64 (Apple Silicon)
 - **[alfresco-identity-service-to-keycloak](https://github.com/aborroy/alfresco-identity-service-to-keycloak)** ⭐10 - Sample Docker Compose templates to help moving from Alfresco Identity Service to Keycloak
-  *...and 37 more repositories in this category*
+  *...and 38 more repositories in this category*
 
 ### Search (Solr / OpenSearch)
 
@@ -62,7 +62,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **[alfresco-opensearch-neural-search](https://github.com/aborroy/alfresco-opensearch-neural-search)** ⭐6 `Java` - Sample Integration of OpenSearch Neural Search with Alfresco
 - **[solr-sharding-reindex](https://github.com/aborroy/solr-sharding-reindex)** ⭐4 `Dockerfile` - Alfresco Search Services Indexer for Sharding Environments
 - **[share-live-search-disable](https://github.com/aborroy/share-live-search-disable)** ⭐3 `JavaScript` - Disable Live Search feature for Alfresco Share
-  *...and 14 more repositories in this category*
+  *...and 15 more repositories in this category*
 
 ### Alfresco Ecosystem
 
@@ -76,7 +76,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 ### Other Projects
 
 - **[mnt-22668](https://github.com/aborroy/mnt-22668)** ⭐3 `Java` - Patch MNT-22668 for ACS 7.2
-- **[aborroy](https://github.com/aborroy/aborroy)** ⭐1 `Python` - About me
+- **[aborroy](https://github.com/aborroy/aborroy)** ⭐2 `Python` - About me
 - **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** ⭐1 `HTML` - Nuxeo LTS deployment built from source code.
 - **[backup-tm](https://github.com/aborroy/backup-tm)**  `Shell` - A lightweight incremental backup for macOS using rsync controlled from a menu bar icon
 - **[ghc-2021](https://github.com/aborroy/ghc-2021)**  `Java` - No description available
@@ -84,16 +84,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-08-13)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-08-12)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-08-10)*
-- **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-08-09)*
-- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-08-06)*
-- **[auditable-aspect-disable](https://github.com/aborroy/auditable-aspect-disable)** - Alfresco Repository module to disable AUDITABLE ASPECT behaviour *(Updated: 2026-08-03)*
-- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-07-31)*
-- **[alfresco-elasticsearch-tls-deployment](https://github.com/aborroy/alfresco-elasticsearch-tls-deployment)** - Deployment sample for Alfresco Search Enterprise (Elasticsearch) using Basic Aut... *(Updated: 2026-07-30)*
-- **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑de... *(Updated: 2026-07-22)*
-- **[alfresco-download-streaming-repo](https://github.com/aborroy/alfresco-download-streaming-repo)** - ACS Repository add-on providing large file downloads with resume support *(Updated: 2026-07-22)*
+- **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-08-24)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-08-21)*
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-08-21)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-08-21)*
+- **[alfresco-search-community-deployments](https://github.com/aborroy/alfresco-search-community-deployments)** - Reference Docker Compose deployments of the Alfresco Community 26.2 stack with A... *(Updated: 2026-08-21)*
+- **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-08-20)*
+- **[alfresco-community-compose-hardened](https://github.com/aborroy/alfresco-community-compose-hardened)** - Hardened Docker Compose deployment for Alfresco Community  *(Updated: 2026-08-20)*
+- **[alfresco-aiup-take-ownership](https://github.com/aborroy/alfresco-aiup-take-ownership)** - Alfresco AIUP Generated. ADF/ACA extension that lets Alfresco administrators tak... *(Updated: 2026-08-20)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-08-20)*
+- **[alfresco-search-index-parity](https://github.com/aborroy/alfresco-search-index-parity)** - Runnable evidence that an OpenSearch index built by Alfresco Search Community ba... *(Updated: 2026-08-20)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-08-17 07:01 UTC*
+*Last updated: 2026-08-24 07:04 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
