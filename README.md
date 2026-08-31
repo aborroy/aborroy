@@ -84,15 +84,15 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-08-31)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-08-31)*
+- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-08-26)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-08-24)*
 - **[alfresco-ubuntu-installer](https://github.com/aborroy/alfresco-ubuntu-installer)** - Collection of scripts to install Alfresco Community in Ubuntu *(Updated: 2026-08-24)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-08-21)*
-- **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-08-21)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-08-21)*
 - **[alfresco-search-community-deployments](https://github.com/aborroy/alfresco-search-community-deployments)** - Reference Docker Compose deployments of the Alfresco Community 26.2 stack with A... *(Updated: 2026-08-21)*
 - **[alfresco-onprem-to-cloud-lab](https://github.com/aborroy/alfresco-onprem-to-cloud-lab)** - Hands on Lab: Alfresco On-prem to Cloud-Ready *(Updated: 2026-08-20)*
 - **[alfresco-community-compose-hardened](https://github.com/aborroy/alfresco-community-compose-hardened)** - Hardened Docker Compose deployment for Alfresco Community  *(Updated: 2026-08-20)*
 - **[alfresco-aiup-take-ownership](https://github.com/aborroy/alfresco-aiup-take-ownership)** - Alfresco AIUP Generated. ADF/ACA extension that lets Alfresco administrators tak... *(Updated: 2026-08-20)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-08-20)*
 - **[alfresco-search-index-parity](https://github.com/aborroy/alfresco-search-index-parity)** - Runnable evidence that an OpenSearch index built by Alfresco Search Community ba... *(Updated: 2026-08-20)*
 
 ## Technologies & Tools
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-08-24 07:04 UTC*
+*Last updated: 2026-08-31 13:08 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
