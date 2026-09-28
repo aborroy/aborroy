@@ -84,15 +84,15 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-09-21)*
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-09-21)*
+- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-09-28)*
+- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-09-25)*
+- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-09-24)*
+- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-09-24)*
+- **[alfresco-search-community-deployments](https://github.com/aborroy/alfresco-search-community-deployments)** - Reference Docker Compose deployments of the Alfresco Community 26.2 stack with A... *(Updated: 2026-09-23)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-09-21)*
 - **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-09-17)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-09-17)*
-- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-09-17)*
 - **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-09-16)*
-- **[alfresco-search-community-deployments](https://github.com/aborroy/alfresco-search-community-deployments)** - Reference Docker Compose deployments of the Alfresco Community 26.2 stack with A... *(Updated: 2026-09-16)*
 - **[aps-docker-deployment](https://github.com/aborroy/aps-docker-deployment)** - Reference deployment of Alfresco Process Service (APS) for Docker Compose *(Updated: 2026-09-15)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-09-14)*
 - **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-08-26)*
 
 ## Technologies & Tools
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-09-21 12:23 UTC*
+*Last updated: 2026-09-28 13:20 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
