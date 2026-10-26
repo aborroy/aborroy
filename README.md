@@ -9,7 +9,7 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 - **AI & RAG Pipelines**: Semantic search, retrieval-augmented generation, and LLM integration with Spring AI, vector databases, and embedding models
 - **MCP Servers & Agents**: Building Model Context Protocol servers for AI-powered workflows
 - **Docker & Cloud-Native**: Containerized architectures, Kubernetes deployments, and developer tooling — [Docker Captain](https://www.docker.com/captains/) since 2020
-- **Open Source**: 147+ public repositories, transform engines, search integrations, and developer utilities
+- **Open Source**: 143+ public repositories, transform engines, search integrations, and developer utilities
 - **Teaching**: Cryptography and cybersecurity lecturer — Enigma machine implementation, CTF challenges, and hands-on workshops ([enigma-python](https://github.com/angelborroy/enigma-python))
 
 ## Featured Projects
@@ -31,11 +31,11 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 ### AI / RAG / LLM
 
 - **[alfresco-genai](https://github.com/aborroy/alfresco-genai)** ⭐29 `Java` - Private AI application to Content Management use cases with GenAI & Alfresco
-- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐15 `Java` - Sample application to apply Spring AI services to Alfresco Repository
+- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** ⭐16 `Java` - Sample application to apply Spring AI services to Alfresco Repository
 - **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** ⭐14 `Shell` - A Claude Code plugin that packages Alfresco extension development as slash commands, skills, and agents
 - **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** ⭐9 `Java` - Additional Alfresco Transform Engines not included in the official AIO image
 - **[alf-tengine-convert2md](https://github.com/aborroy/alf-tengine-convert2md)** ⭐9 `Java` - AI‑powered Alfresco Transform Engine that converts PDF files to clean, richly‑described Markdown.
-  *...and 25 more repositories in this category*
+  *...and 21 more repositories in this category*
 
 ### MCP Servers & Agents
 
@@ -84,16 +84,16 @@ I build AI-powered tools, semantic search pipelines, containerized architectures
 
 ## Recent Activity
 
-- **[content-lake-app-deployment](https://github.com/aborroy/content-lake-app-deployment)** - Self-contained deployment for Content Lake App *(Updated: 2026-10-15)*
-- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-10-12)*
+- **[aiup-alfresco](https://github.com/aborroy/aiup-alfresco)** - A Claude Code plugin that packages Alfresco extension development as slash comma... *(Updated: 2026-10-26)*
+- **[alfresco-ai-framework](https://github.com/aborroy/alfresco-ai-framework)** - Sample application to apply Spring AI services to Alfresco Repository *(Updated: 2026-10-22)*
+- **[aborroy](https://github.com/aborroy/aborroy)** - About me *(Updated: 2026-10-19)*
 - **[alfresco-script-root-object](https://github.com/aborroy/alfresco-script-root-object)** - New JavaScript Root Objects for Alfresco Repo *(Updated: 2026-10-09)*
 - **[nuxeo-deployment](https://github.com/aborroy/nuxeo-deployment)** - Nuxeo LTS deployment built from source code. *(Updated: 2026-10-07)*
-- **[content-lake-app](https://github.com/aborroy/content-lake-app)** - App for Hyland Content Lake *(Updated: 2026-10-07)*
-- **[content-lake-app-ui](https://github.com/aborroy/content-lake-app-ui)** - Demo UI for the Content Lake App that provides dual authentication (Alfresco + N... *(Updated: 2026-10-05)*
 - **[spring-ai-summarizer](https://github.com/aborroy/spring-ai-summarizer)** - Tutorial to create a summarizer endpoint with Spring AI and Docker Model Runner *(Updated: 2026-10-02)*
-- **[alfresco-content-lake-ui](https://github.com/aborroy/alfresco-content-lake-ui)** - UI extension for Alfresco Content Lake to be used with ACA or ADW *(Updated: 2026-10-01)*
 - **[acs-transform-cluster](https://github.com/aborroy/acs-transform-cluster)** - Sample deployment to scale up Alfresco Transform Service (both Enterprise and Co... *(Updated: 2026-10-01)*
 - **[alfresco-search-community-deployments](https://github.com/aborroy/alfresco-search-community-deployments)** - Reference Docker Compose deployments of the Alfresco Community 26.2 stack with A... *(Updated: 2026-09-23)*
+- **[alfresco-transform-extras](https://github.com/aborroy/alfresco-transform-extras)** - Additional Alfresco Transform Engines not included in the official AIO image *(Updated: 2026-09-16)*
+- **[aps-docker-deployment](https://github.com/aborroy/aps-docker-deployment)** - Reference deployment of Alfresco Process Service (APS) for Docker Compose *(Updated: 2026-09-15)*
 
 ## Technologies & Tools
 
@@ -113,6 +113,6 @@ More of my work lives at [angelborroy](https://github.com/angelborroy) and [ange
 
 ---
 
-*Last updated: 2026-10-19 12:37 UTC*
+*Last updated: 2026-10-26 12:32 UTC*
 
 <!-- This README is automatically updated by GitHub Actions -->
